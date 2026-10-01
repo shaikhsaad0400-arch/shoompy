@@ -257,7 +257,7 @@
 
 # d1["state"] = "Maharashtra"
 
-# d1["name"] = "Shoom Patil" 
+# d1["name"] = "Shoom patil " 
 
 # print(d1)
 
